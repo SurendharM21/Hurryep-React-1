@@ -1,0 +1,211 @@
+.img {
+    background-image: url("../../Assests/Home/Homebg.png");
+}
+
+.para-service {
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 32px;
+    text-align: center;
+    color: #70BF29;
+}
+
+.service-team {
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 32px;
+    color: #8C8D8B;
+}
+
+.text-service {
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 32px;
+    color: #70BF29;
+}
+
+.text-webdesign {
+    font-family: Poppins;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 40px;
+    text-align: left;
+}
+
+.text-webdesign {
+
+    font-family: Poppins;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 40px;
+    text-align: left;
+}
+
+.text-web {
+font-family: Poppins;
+font-size: 32px;
+font-weight: 600;
+line-height: 40px;
+text-align: left;
+}
+
+
+.text-box {
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 32px;
+    text-align: center;
+    color: #70BF29;
+}
+
+.custom-btn {
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+
+.tailored-title {
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 40px;
+    color: #70BF29;
+}
+
+
+.card-name {
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 32px;
+    color: #70BF29;
+}
+
+.card-para {
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 32px;
+    text-align: center;
+}
+.faq-text{
+font-family: DM Sans;
+font-size: 22px;
+font-weight: 500;
+line-height: 28px;
+text-align: left;
+}
+.fq-para{
+font-family: DM Sans;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+text-align: left;
+color:#999999;
+}
+.trans-head{
+font-family: Poppins;
+font-size: 32px;
+font-weight: 600;
+line-height: 40px;
+text-align: center;
+color: #70BF29;
+}
+.trans-text{
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 32px;
+    text-align: left;
+    color: #8C8D8B; 
+}
+@media (max-width: 768px) {
+    .text-webdesign {
+        font-size: 1.25rem;
+    }
+
+    .text-web {
+        font-size: 0.9rem;
+    }
+
+    .text-box {
+        font-size: 1rem;
+    }
+
+    .custom-btn {
+        font-size: 0.9rem;
+    }
+}
+
+@media (max-width: 576px) {
+    .text-webdesign {
+        font-size: 1rem;
+    }
+
+    .text-web {
+        font-size: 0.8rem;
+    }
+
+    .text-box {
+        font-size: 0.9rem;
+    }
+
+    .custom-btn {
+        font-size: 0.8rem;
+    }
+}
+
+
+@media (max-width : 576px) {
+    .text-service {
+        font-family: Poppins;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 28px;
+        text-align: left;
+        color: #70BF29;
+    }
+
+    .para-service {
+        font-family: Poppins;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 32px;
+        text-align: center;
+        color: #70BF29;
+    }
+
+    .service-team {
+        font-family: Poppins;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 32px;
+        text-align: left;
+        color: #8C8D8B;
+    }
+    .trans-text{
+        font-family: Poppins;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 32px;
+        text-align: left;
+        color: #8C8D8B; 
+    }
+    .trans-head{
+        font-family: Poppins;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 32px;
+        text-align: center;
+        color: #70BF29;
+        }
+        .tailored-title {
+            font-weight: 500;
+            font-size: 18px;
+            line-height: 32px;
+            color: #70BF29;
+        }
+        
+}

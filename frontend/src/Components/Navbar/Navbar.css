@@ -1,0 +1,16 @@
+.link {
+    font-family: Poppins;
+    font-size: 21px;
+    font-weight: 500;
+    line-height: 32px;
+    text-align: left;
+    color: #000000;
+}
+
+.link-2 {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 30px;
+    text-align: left;
+}
